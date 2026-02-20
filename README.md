@@ -245,6 +245,7 @@ DIO-AGENTE-IA/
 
 - No projeto apresentado no curso usava-se Ollama, uma LLM local. Migrei para o Groq por ser significativamente mais rápido para testes.
 - Adaptei para minha necessidade: o histórico da conversa é salvo e todos os arquivos enviados pelo usuário são armazenados na pasta [`data/`](./data/).
+- O prompt ainda não está 100% sólido, o agente ainda pode responder perguntas fora do tema de finanças, mas de modo geral ele atende bem ao seu propósito.
 
 ---
 
