@@ -1,0 +1,27 @@
+{
+  "perfil": {
+    "nome": "João Silva",
+    "idade": 32,
+    "profissao": "Analista de Sistemas",
+    "renda_mensal": 5000.00,
+    "perfil_investidor": "Moderado",
+    "aceita_risco": false
+  },
+  "situacao_atual": {
+    "patrimonio_total": 15000.00,
+    "reserva_emergencia_atual": 10000.00,
+    "objetivo_principal": "Construir reserva de emergência"
+  },
+  "metas": [
+    {
+      "nome_meta": "Completar reserva de emergência",
+      "valor_necessario": 15000.00,
+      "prazo": "2026-06"
+    },
+    {
+      "nome_meta": "Entrada do apartamento",
+      "valor_necessario": 50000.00,
+      "prazo": "2027-12"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+data;descricao;categoria;valor;tipo
+01/10/2025;Salário;Receita;45000;Entrada
+02/10/2025;Aluguel;Moradia;15000;Saída
+03/10/2025;Supermercado;Alimentação;6500;Saída
+05/10/2025;Netflix;Lazer;399;Saída
+07/10/2025;Farmácia;Saúde;850;Saída
+10/10/2025;Restaurante;Alimentação;1200;Saída
+12/10/2025;Uber;Transporte;450;Saída
+15/10/2025;Conta de Luz;Moradia;1800;Saída
+20/10/2025;Academia;Saúde;1100;Saída
+25/10/2025;Combustível;Transporte;3000;Saída
