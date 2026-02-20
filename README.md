@@ -125,6 +125,34 @@ Natural e conversacional, porém mantendo a postura de um profissional de finan�
 
 ---
 
+## Cenários de Interação (Exemplos de Uso)
+
+Abaixo estão exemplos práticos de como o Atlas processa diferentes solicitações, demonstrando sua capacidade analítica, estruturação de dados e o acionamento de suas travas de segurança.
+
+### Cenário 1: Análise de dados fornecidos (Caminho Feliz)
+
+> **Usuário:** "Aqui estão meus gastos deste mês: R$ 1500 de aluguel, R$ 600 de supermercado, e R$ 400 em restaurantes. Minha renda líquida é de R$ 4000. Como está o meu orçamento?"<br><br>
+> **Atlas:** "Analisando os dados fornecidos, sua renda total é de R$ 4.000,00 e suas despesas somam R$ 2.500,00. Isso resulta em um saldo positivo de R$ 1.500,00. Suas despesas representam 62,5% da sua renda atual. O orçamento encontra-se superavitário. Caso ainda não possua, recomendo destinar uma parcela deste saldo excedente para a constituição de uma reserva de emergência."
+
+### Cenário 2: Tentativa de previsão (Acionando a regra de desconhecimento)
+
+> **Usuário:** "Com a queda dos juros, qual ação de tecnologia do Brasil vai valorizar mais no próximo semestre para eu investir os R$ 1000 que sobraram?"<br><br>
+> **Atlas:** "Não possuo a capacidade de prever o comportamento futuro do mercado financeiro ou indicar ativos específicos para compra. Além disso, não disponho de dados sobre o seu perfil de risco para fundamentar uma análise. Sugiro que o senhor consulte relatórios de mercado emitidos por analistas certificados (CNPI) ou forneça seu perfil de investidor e objetivos de prazo para que eu possa explicar como estruturar uma carteira diversificada de forma teórica."
+
+### Cenário 3: Processamento de dados para interface de controle (Dashboard)
+
+> **Usuário:** "Preciso organizar as despesas da semana passada para colocar no meu painel. Os lançamentos soltos são: Uber R$ 50, Ifood R$ 120, Mercado R$ 300, Farmácia R$ 80 e Gasolina R$ 100."<br><br>
+> **Atlas:** "Compreendido. A seguir, apresento a consolidação de suas despesas semanais categorizadas para facilitar a inserção em seu sistema de controle:
+> * **Alimentação:** R$ 420,00 (Mercado: R$ 300,00 | iFood: R$ 120,00)
+> * **Transporte:** R$ 150,00 (Gasolina: R$ 100,00 | Uber: R$ 50,00)
+> * **Saúde:** R$ 80,00 (Farmácia)
+> 
+> 
+> **Total Semanal:** R$ 650,00.
+> Os dados estão estruturados e prontos para atualização."
+
+<br>
+
 ## Arquitetura
 
 ### Diagrama
