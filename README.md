@@ -254,3 +254,5 @@ DIO-AGENTE-IA/
 - [ ] **Memória de Longo Prazo:** O agente fará perguntas interativas para definir o perfil do usuário e salvará as respostas em um JSON, criando um contexto persistente entre sessões.
 - [ ] **Múltiplas Sessões de Chat:** Funcionalidade para criar e gerenciar vários chats independentes (ex: um para dívidas e outro para investimentos).
 - [ ] **Aplicativo Desktop:** Empacotar a aplicação como executável local, eliminando a necessidade de instalar Python ou rodar comandos no terminal.
+
+LINK DO PITCH: [Pitch](https://youtu.be/MEufgy4F5m8)
